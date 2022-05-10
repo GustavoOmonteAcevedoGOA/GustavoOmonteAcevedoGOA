@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gustavo Omonte Aceedo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Gustavo Omonte Acevedo</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
 - 🌱 I’m currently learning **React**
