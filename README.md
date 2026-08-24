@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **GustavoOmonteAcevedoGOA@gmail.com**
 
-- 📄 Know about my experiences [https://gustavoomonteacevedo.netlify.app/files/Resume_English.pdf](https://gustavoomonteacevedo.netlify.app/files/Resume_English.pdf)
+- 📄 Know about my experiences [https://gustavo-omonte-portfolio.netlify.app/](https://gustavo-omonte-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
